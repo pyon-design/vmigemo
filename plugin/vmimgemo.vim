@@ -1,7 +1,7 @@
 vim9script
 # plugin/vmigemo.vim: migemo with dictionary
-# Version: 0.1
-# Last Changed: 2024-08-30 Fri 01:57:23
+# Version: 0.2
+# Last Changed: 2025-02-09 Sun 16:20:42
 # Maintainer: Tak Mutoh
 # License: This files is placed in the public domain.
 
@@ -11,5 +11,5 @@ endif
 g:loaded_vmigemo = 1
 
 import autoload "vmigemo.vim"
-nnoremap g/ <ScriptCmd>vmigemo.MigemoSearch()<CR>
+nnoremap ,/ <ScriptCmd>vmigemo.MigemoSearch()<CR>
 
