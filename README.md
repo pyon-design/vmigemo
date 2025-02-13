@@ -10,7 +10,7 @@ vim-migemo-wd is migemo vim plugin.
 
 ## Installation
 ```
-git clone https://github.com/pyon-design/vim-migemo-wd.git
+git clone https://github.com/pyon-design/vmigemo.git
 ```
 
 ## Customization
